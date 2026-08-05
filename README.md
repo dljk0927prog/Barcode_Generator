@@ -197,13 +197,9 @@ http://localhost/Barcode_Generator/index.php
 |---|---|
 | ![Generator EN](assets/screenshots/generator-en.png) | ![Generator ZH](assets/screenshots/generator-zh.png) |
 
-| Barcodes Preview | User Manual (EN) |
+| Barcodes Preview | Language Switch |
 |---|---|
-| ![Preview](assets/screenshots/barcodes-preview.png) | ![Manual EN](assets/screenshots/manual-en.png) |
-
-| Language Switch |
-|---|
-| ![Language](assets/screenshots/language-switch.png) |
+| ![Preview](assets/screenshots/barcodes-preview.png) | ![Language](assets/screenshots/language-switch.png) |
 
 ### 📸 Screenshot checklist for you
 
@@ -211,9 +207,10 @@ http://localhost/Barcode_Generator/index.php
 2. Capture the main page → save as `assets/screenshots/generator-en.png`
 3. Click **Fill sample (10)** → **Generate** → capture preview → save as `barcodes-preview.png`
 4. Switch to **中文** → capture → save as `generator-zh.png`
-5. Open **User Manual** → capture → save as `manual-en.png`
-6. Capture the header language buttons → save as `language-switch.png`
-7. Commit & push the images when ready
+5. Capture the header **EN / 中文** buttons → save as `language-switch.png`
+6. Commit & push the images when ready
+
+> No User Manual page screenshot needed — this README already covers usage.
 
 Placeholder reminder file: `assets/screenshots/README-SCREENSHOTS.txt`
 
