@@ -189,10 +189,6 @@ http://localhost/Barcode_Generator/index.php
 
 ## 🖼️ Project Screenshots
 
-> ⚠️ **Action needed:** I could not capture live screenshots in this environment.  
-> Please take screenshots yourself and save them into `assets/screenshots/` using the filenames below.  
-> After you drop the images in, GitHub will show them automatically in this README.
-
 | Generator (EN) | Generator (中文) |
 |---|---|
 | ![Generator EN](assets/screenshots/generator-en.png) | ![Generator ZH](assets/screenshots/generator-zh.png) |
@@ -200,19 +196,6 @@ http://localhost/Barcode_Generator/index.php
 | Barcodes Preview | Language Switch |
 |---|---|
 | ![Preview](assets/screenshots/barcodes-preview.png) | ![Language](assets/screenshots/language-switch.png) |
-
-### 📸 Screenshot checklist for you
-
-1. Open `http://localhost/Barcode_Generator/?lang=en`
-2. Capture the main page → save as `assets/screenshots/generator-en.png`
-3. Click **Fill sample (10)** → **Generate** → capture preview → save as `barcodes-preview.png`
-4. Switch to **中文** → capture → save as `generator-zh.png`
-5. Capture the header **EN / 中文** buttons → save as `language-switch.png`
-6. Commit & push the images when ready
-
-> No User Manual page screenshot needed — this README already covers usage.
-
-Placeholder reminder file: `assets/screenshots/README-SCREENSHOTS.txt`
 
 ---
 
