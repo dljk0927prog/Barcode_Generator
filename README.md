@@ -69,78 +69,27 @@ Barcode_Generator/
 
 ---
 
-## ⬇️ How to Download This Project
+## ⬇️ Download & Run on Localhost
 
-Follow these steps carefully if you are downloading from **GitHub**.
+1. Download this project from GitHub:  
+   **[Code → Download ZIP](https://github.com/dljk0927prog/Barcode_Generator)**  
+   or clone:
+   ```bash
+   git clone https://github.com/dljk0927prog/Barcode_Generator.git
+   ```
+2. Extract the ZIP (if downloaded), then rename the folder to `Barcode_Generator`.
+3. Put the folder into XAMPP:
+   ```
+   C:\xampp\htdocs\Barcode_Generator\
+   ```
+4. Open **XAMPP Control Panel** and start **Apache**.
+5. Open your browser and go to:
+   ```
+   http://localhost/Barcode_Generator/
+   ```
 
-### Method A — Download ZIP (easiest for beginners)
-
-1. Open the repository page:  
-   **https://github.com/dljk0927prog/Barcode_Generator**
-2. Click the green **Code** button.
-3. Click **Download ZIP**.
-4. Wait until the browser finishes downloading  
-   `Barcode_Generator-main.zip` (filename may vary slightly).
-5. Go to your **Downloads** folder.
-6. **Right-click** the ZIP file → choose **Extract All…** (Windows)  
-   or double-click and extract (macOS).
-7. Choose a destination folder, then click **Extract**.
-8. After extraction, you should see a folder such as:  
-   `Barcode_Generator-main`
-9. Rename the folder to `Barcode_Generator` (optional, but recommended).
-10. Move / copy that folder into your web server directory:
-    - **XAMPP (Windows):** `C:\xampp\htdocs\`
-    - Final path example: `C:\xampp\htdocs\Barcode_Generator\`
-
-### Method B — Git Clone (for developers)
-
-```bash
-cd C:\xampp\htdocs
-git clone https://github.com/dljk0927prog/Barcode_Generator.git
-cd Barcode_Generator
-```
-
----
-
-## ⚙️ How to Install & Run (XAMPP)
-
-### Step 1 — Start XAMPP
-1. Open **XAMPP Control Panel**.
-2. Start **Apache**.
-3. (Optional) Start **MySQL** only if you want batch history.
-
-### Step 2 — Confirm folder location
-Make sure files are here:
-
-```
-C:\xampp\htdocs\Barcode_Generator\index.php
-```
-
-### Step 3 — Open in browser
-Visit:
-
-```
-http://localhost/Barcode_Generator/
-```
-
-or:
-
-```
-http://localhost/Barcode_Generator/index.php
-```
-
-### Step 4 — (Optional) Enable MySQL history
-1. Open **phpMyAdmin**: `http://localhost/phpmyadmin`
-2. Click **Import**
-3. Choose `sql/schema.sql`
-4. Click **Go**
-5. Default DB settings in `config/db.php`:
-   - Host: `localhost`
-   - Database: `barcode_generator`
-   - User: `root`
-   - Password: *(empty for default XAMPP)*
-
-> If MySQL is not set up, barcode generate / download still works. History save is simply skipped.
+That’s it — you can start generating barcodes right away.  
+*(MySQL is optional. Without it, generate / download / print still work.)*
 
 ---
 
