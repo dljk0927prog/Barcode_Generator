@@ -203,8 +203,9 @@ http://localhost/Barcode_Generator/index.php
 
 | Resource | Link |
 |---|---|
-| 🌐 Live / Local URL | `http://localhost/Barcode_Generator/` |
-| 📘 User Manual | `http://localhost/Barcode_Generator/manual.php` |
+| 🌐 Live URL | [desmondliewjiankai.kolejsynergy.com](https://desmondliewjiankai.kolejsynergy.com/) |
+| 📘 User Manual | [Open Manual](https://desmondliewjiankai.kolejsynergy.com/manual.php) |
+| 💻 Local (XAMPP) | `http://localhost/Barcode_Generator/` |
 | 📦 GitHub Repository | [dljk0927prog/Barcode_Generator](https://github.com/dljk0927prog/Barcode_Generator) |
 
 ---
