@@ -211,9 +211,9 @@ Watch the project walkthrough on Google Drive:
 
 | Resource | Link |
 |---|---|
-| 🌐 Live URL | [desmondliewjiankai.kolejsynergy.com](https://desmondliewjiankai.kolejsynergy.com/) |
+| 🌐 Live URL | [desmondliewjiankai.kolejsynergy.com/Barcode_Generator](https://desmondliewjiankai.kolejsynergy.com/Barcode_Generator/) |
 | 🎬 Demo Video | [Watch on Google Drive](https://drive.google.com/file/d/1SZkenFdy3P3Ak_RZ2p44u21P2Qcvg7Iv/view?usp=drive_link) |
-| 📘 User Manual | [Open Manual](https://desmondliewjiankai.kolejsynergy.com/manual.php) |
+| 📘 User Manual | [Open Manual](https://desmondliewjiankai.kolejsynergy.com/Barcode_Generator/manual.php) |
 | 💻 Local (XAMPP) | `http://localhost/Barcode_Generator/` |
 | 📦 GitHub Repository | [dljk0927prog/Barcode_Generator](https://github.com/dljk0927prog/Barcode_Generator) |
 
